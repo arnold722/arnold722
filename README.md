@@ -1,6 +1,6 @@
 # Hi there! I'm Arnold 👋
 
-I'm a beginner on GitHub, learning and growing every day 💻
+I'm Front-end Developer | HTML, CSS, JS | Building responsive web projects💻
 
 ## 💡 Skills
 - HTML 🟧
