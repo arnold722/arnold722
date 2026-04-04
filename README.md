@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Arnold 👋
 
-<!--
-**arnold722/arnold722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner on GitHub, learning and growing every day 💻
 
-Here are some ideas to get you started:
+## 💡 Skills
+- HTML 🟧
+- CSS 🎨
+- JavaScript ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [My First Website](https://github.com/arnold722/mon-premier-site)
+
+![Fun Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
