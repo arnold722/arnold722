@@ -8,6 +8,9 @@ I'm Front-end Developer | HTML, CSS, JS | Building responsive web projects💻
 - JavaScript ⚡
 
 ## 🚀 Projects
-- [My First Website](https://github.com/arnold722/mon-premier-site)
+- https://arnold722.github.io/Portofolio-arnolde/
 
-![Fun Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+- Added a personal introduction section
+- Listed skills: HTML, CSS, JavaScript
+- Added first project link
+- Included a fun GIF and a motivational quote
