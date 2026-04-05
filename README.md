@@ -175,11 +175,7 @@ I enjoy working with a variety of languages and tools like **HTML, CSS, JavaScri
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eclipse_che/eclipse_che-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 </p>
 
-<!--   GitHub stats graph -->
-<h3 align="center"> 📈 GitHub Activity Graph: </h3>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=codekaito&theme=react-dark)
-<br>
 
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 🐍 GitHub Snake eating my contribution graph: </h3>
