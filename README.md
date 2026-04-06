@@ -28,7 +28,7 @@
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
-<h3 align="center">Hi there! 🐿️</h3>
+
 <h1 align="center">Hi, I'm Arnold 👋</h1>
 
 ---
